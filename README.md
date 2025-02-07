@@ -62,7 +62,6 @@ The application will be available at http://localhost:5000.
 
 ## Project Structure
 ```markdown
-Kopieren
 weather-app/
 ├── app.py
 ├── requirements.txt
