@@ -22,7 +22,7 @@ This is a small Flask web application that retrieves current weather data from t
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/YOUR_USERNAME/weather-app.git
+    git clone https://github.com/janwichmann98/weather-app.git
     cd weather-app
 
 2. Create and activate a virtual environment:
